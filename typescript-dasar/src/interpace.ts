@@ -21,7 +21,7 @@ interface Mahasiswa {
 }
 
 const dataMahasiswa: Mahasiswa[] = [
-  { nama: "aidil", nim: 12123 },
+  { nama: "james", nim: 12123 },
   { nama: "kumar", nim: 12122 },
 ];
 
