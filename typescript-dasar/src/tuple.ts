@@ -17,7 +17,7 @@ console.log("tim dua adalah", tim);
 
 //tuple dengann rest
 let restTuple: [string, ...number[], boolean];
-restTuple = ["aidil", 12, 31, 12, 13, true];
+restTuple = ["adi", 12, 31, 12, 13, true];
 console.log(restTuple);
 console.log(restTuple[1]);
 
